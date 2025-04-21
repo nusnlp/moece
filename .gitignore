@@ -33,7 +33,6 @@ wheels/
 
 # Checkpoints
 checkpoints/
-models/
 outputs/
 
 # PyInstaller
