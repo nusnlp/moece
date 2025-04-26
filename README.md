@@ -58,7 +58,7 @@ errant==2.0.0
 
 ### Prepare the training data
 
-Please follow the instructions in the official [cLang-8 repository](https://github.com/google-research-datasets/clang8) to download the cLang-8 data.
+You need to recreate the data/fairseq-aux-bin directory, as the training split there is a dummy one from the BEA-Dev set. Please follow the instructions in the official [cLang-8 repository](https://github.com/google-research-datasets/clang8) to download the cLang-8 data.
 
 Afterward, get the error types of the training data by running the following command:
 
